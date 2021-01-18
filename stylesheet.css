@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://www.solofondos.com/wp-content/uploads/2015/11/21omxpw.jpg");
+}
+.description{
+    padding:10px 20px;
+    margin: 20px 30px;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.70);
+    background:rgba(161, 133, 128, 0.2);
+}
+h1{
+    text-align: center;
+    color: #ffff;
+}
+button{
+    margin: 100px 600px;
+    padding: 10px 20px;
+    background: red;
+}
+button:hover{
+    cursor:pointer;
+}
+.error{
+    background:black;
+    color: white;
+    padding: 10px 20px;
+    text-align:center;
+}
